@@ -1,0 +1,2 @@
+# simple_website_card_secret_authorization_system
+一个极简的通用网站卡密授权、发卡系统。自带微信支付宝免签收款。
